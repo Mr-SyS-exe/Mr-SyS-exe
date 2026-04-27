@@ -1,12 +1,24 @@
 # 👋 Hola, soy Mr-SyS-exe
 
-🎓 Estudiante de Ingeniería Informática en la ULL  
-💻 Interesado en desarrollo de software, IA y sistemas  
-📍 Tenerife, España 
+🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL)
+💻 Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas
+📍 Tenerife, España
 
-## 🚀 Tecnologías
-- Lenguajes: Python, Java, C++
-- Herramientas: Git, Linux, Windows (Active Directrory)
+---
+
+## 🚀 Tecnologías y herramientas
+
+* **Lenguajes:** C++
+* **Sistemas y herramientas:** Git, Linux, Windows (Active Directory)
+* **Actualmente aprendiendo:** Python
+
+  
+---
+
+## 🎯 Sobre mí
+
+Me interesa mucho la ciberseguridad y la computación cuántica.
+
 
 <!--
 **Mr-SyS-exe/Mr-SyS-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
