@@ -1,7 +1,9 @@
 # 👋 Hola, soy Mr-SyS-exe
 
 🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL)
+
 💻 Apasionado por la ciberseguridad y los sistemas
+
 📍 Tenerife, España
 
 ---
